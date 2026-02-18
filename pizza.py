@@ -8,6 +8,8 @@ elif size == "M":
     bill += 20
 elif size == "L":
     bill += 25
+else:
+    print("Invalid size")
 
 if pepperoni == "Y":
     if size == "S":

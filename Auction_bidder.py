@@ -1,4 +1,7 @@
-
+""" Finding highest bidder
+You are going to write a program for a bidding auction. The program will
+ask for the names of the bidders and the amount they are bidding. Then it should find the highest bidder 
+and how much they bid."""
 
 
 
